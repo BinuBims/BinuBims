@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binu Kandagedon</h1>
 <h3 align="center">Data Scientist / Full Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **Resume AI**
+- 🔭 I’m currently working on **Supermarket Sales Prediction**
 
 - 🌱 I’m currently learning **Java**
 
