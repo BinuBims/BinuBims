@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 👨‍💻 All of my projects are available at [https://binu-kandagedon.netlify.app/](https://binukandagedon.net)
+- 👨‍💻 All of my projects are available at [https://binukandagedon.net/](https://binukandagedon.net)
 
 - 📫 How to reach me **binukandagedon@gmail.com**
 
