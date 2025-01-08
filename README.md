@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binu Kandagedon</h1>
-<h3 align="center">Data Scientist / Full Stack Software Engineer</h3>
+<h3 align="center">Cloud Engineer</h3>
 
 - 🔭 I’m currently working on **Supermarket Sales Prediction**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://binu-kandagedon.netlify.app/](https://binu-kandagedon.netlify.app/)
 
-- 📫 How to reach me **binubimshara2015@gmail.com**
+- 📫 How to reach me **binukandagedon@gmail.com**
 
 - ⚡ Fun fact **I love cricket and coding**
 
