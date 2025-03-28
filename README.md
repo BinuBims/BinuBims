@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Binu Kandagedon</h1>
-<h3 align="center">Cloud Engineer</h3>
+<h1 align="center">Hi 👋, Binu Kandage Don here </h1>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on **Supermarket Sales Prediction**
+- 🔭 I’m currently working at **The Knowledge House**
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Web Dev Projects**
 
 - 👨‍💻 All of my projects are available at [https://binukandagedon.net/](https://binukandagedon.net)
 
 - 📫 How to reach me **binukandagedon@gmail.com**
 
-- ⚡ Fun fact **I love cricket and coding**
+- ⚡ Fun fact **coding and lifting🏋️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
