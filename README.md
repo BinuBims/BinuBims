@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Binu Kandage Don here </h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer at 100Devs</h3>
 
 - 🔭 I’m currently working at **The Knowledge House**
 
