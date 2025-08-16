@@ -1,3 +1,46 @@
+<img src="images/background.jpeg" width="100%">
+
+<p align="center">
+  <a href="https://binukandagedon.net" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/binubims/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://x.com/Binu_Kandagedon" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://wellfound.com/u/binu-kandagedon" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=wellfound&color=cdf998&style=plastic&logo=wellfound&logo-color=white"/>
+  </a>
+</p>
+
+I’m a Software Engineer who thrives on solving problems, whether it's complex web development or challenges that don’t come with a manual. 
+I specialize in full-stack web development, building clean, scalable, and high-performing solutions across the stack. I pick up new technologies quickly, retain 
+what I learn, and apply it with precision. From intuitive frontends to powerful backends and everything in between, I bring energy, creativity, and grit to 
+every line of code.
+
+See [my website](https://binukandagedon.net) for more information!
+
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Cold Play 2025</h3>
+        <br />
+        <a target="_blank" href="https://shawncharles.com/travelara">
+            <img src="images/coldplay.gif.gif" width="100%" alt="cold play gif"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/BinuBims/coldplay_2025" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://coldplay.binukandagedon.net/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, Node.js, Express.js, Supabase, Local storage</strong> - I built a canvas-based game with Vite + Supabase where you score by bouncing the ball and compete on a global leaderboard (top 10 saved).</p>
