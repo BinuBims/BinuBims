@@ -30,7 +30,7 @@ See [my website](https://binukandagedon.net) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Cold Play 2025</h3>
         <br />
-        <a target="_blank" href="https://shawncharles.com/travelara">
+        <a target="_blank" href="https://coldplay.binukandagedon.net/">
             <img src="images/coldplay.gif.gif" width="100%" alt="cold play gif"/>
         </a>
         <br />
@@ -70,7 +70,7 @@ can easily book appointments online. Smooth, accessible, and user-friendly..</p>
     <td width="50%" valign="top">
       <h3 align="center">Drumkit</h3>
       <br />
-        <a target="_blank" https://bk-drum-kit.netlify.app/">
+        <a target="_blank" href="https://bk-drum-kit.netlify.app/">
           <img src="images/drumkit.gif" width="100%" alt="drumkit.gif"/>
         </a>
       <br />
